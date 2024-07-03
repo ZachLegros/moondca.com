@@ -1,5 +1,5 @@
 # [moondca.com](https://moondca.com/)
-Crypto market models and strategy-building platform built with React, Next.js, TypeScript, Tailwind, Shadcn, AWS, and terraform CDK.
+Crypto market models and strategy-building platform built with Next.js, TypeScript, Tailwind, Shadcn, AWS, and Terraform CDK.
 
 ## Risk models
 <img width="1608" alt="Screenshot 2024-06-25 at 4 48 45 PM" src="https://github.com/ZachLegros/moondca.com/assets/55165268/89e8fb40-d1cb-4066-af54-91ab4ae02f80">
